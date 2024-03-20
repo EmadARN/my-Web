@@ -9,7 +9,7 @@ import Navbar from "./Navbar";
 import About from "../components/about/About.jsx";
 import Tech from "./Tech";
 import Experience from "../components/experience/Experience";
-import Works from "./Works";
+import Works from "../components/works/Works";
 import Feedbacks from "./Feedbacks";
 import Contact from "./Contact";
 
